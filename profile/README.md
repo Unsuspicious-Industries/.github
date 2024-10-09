@@ -1,11 +1,20 @@
+
 # Unsuspicious Industries
 
-We are a non-profit research company, focused on artificial intelligence and it's applications to social and physical sciences. We are trying to create precise world models to improve our ways of interacting with our environement, understanding the world around us and organizing our societies.
+Welcome to Unsuspicious Industries, where we blend artificial intelligence with a sprinkle of magic to make the world a better place! ✨ 
 
-## Why Unsuspicious
+We're a non-profit research company dedicated to using AI to advance social and physical sciences. Our mission? To create precise world models that help us interact better with our environment, understand the world around us, and improve our societies. 🚀
 
-Unsuspicious Indsutries (USI) is commited to democracy, sustainability and ethics. We try to integrate as much as possible with communities, and to promote social progress. We beleive that humanity needs to progress both on the technological and social field, and that thus, the goal of researcher is also to find new way to exchnage information, goods and services.
+## Why Unsuspicious ?
 
-## Join us
+At Unsuspicious Industries (USI), we value :
 
-Write us at contact@unsuspicious.org to help us in our mission !
+ - 🗳️ democracy 
+ - 🌱 sustainability
+ - 🧭 ethics
+
+We strive to integrate with communities and promote social progress. We believe that humanity's progress is a blend of technological and social advancements, and our goal is to discover new ways to exchange information, goods, and services. Together, we can make a difference! 
+
+## Join Us! 🎉
+
+Want to be part of something amazing? Drop us a line at [contact@unsuspicious.org](mailto:contact@unsuspicious.org) and join our mission to change the world! 🌟
