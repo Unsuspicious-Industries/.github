@@ -10,4 +10,4 @@ We are a non-profit dedicated to freedom, art and science. We believe in Free an
 To learn more visit [our website](https://unsuspicious.org).
 
 
-You can reach us at contact@unsuspicious.org or use out [contact page](https://unsuspicious.org/contact).
+You can reach us at contact@unsuspicious.org or use our [contact page](https://unsuspicious.org/contact).
