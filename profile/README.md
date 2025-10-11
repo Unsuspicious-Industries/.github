@@ -1,7 +1,7 @@
 
 # Unsuspicious Industries
 
-Welcome to Unsuspicious Industries, where we blend AI and formal systems to get closer to the truth.
+Building verifiable AI systems, studying propaganda, and hacking the universe.
 
 We are a non-profit dedicated to freedom, art and science. We believe in Free and Open-Source Software.
 
